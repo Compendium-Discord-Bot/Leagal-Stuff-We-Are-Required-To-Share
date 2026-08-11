@@ -8,7 +8,7 @@ This document is a source of truth for identifying real Compendium applications,
 
 In this document, beyond this section, we identify our staff, our Discord Bots, our web services, any emails we operate, our payment portal, and our companies and legal entities.
 
-We at Compendium care about your privacy and security, and hereby release and maintain this document out of goodwill.
+We at Compendium care about your privacy and security, and hereby release and maintain this document in the interest of of goodwill.
 
 ### 2. Disclaimer
 
@@ -18,21 +18,28 @@ This document does not substitute or replace good security practices to keep you
 
 #### A. How to report fraudulent activity
 
-We appreciate any goodwill attempts to report fraud and abuse. Please email us at impropriety@`[WIP - Website domain]` with as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
+We appreciate and welcome any goodwill attempts to report fraud and abuse. Please email us at impropriety@`[WIP - Website domain]` and provide as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
 
 #### B. Normal updates
 
-When there is any normal *(non-emergency)* update to this information, we will post in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") announcement channel in the Compendium Support Discord server. These may be referred throughout our documentation as a transparency update, policy update, or similar.
+When there is any normal, non-emergency update to this information, we will:
+
+- Post in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") announcement channel in the Compendium Support Discord server. These may be referred throughout our documentation as a transparency update, policy update, or similar.
+- Update the any related advisory documents in this repository by providing new or corrected information, or removing invalid or outdated information.
 
 #### C. Exceptional updates
 
-If there is ever an exceptional *(emergency)* update, e.g. some compromise of security such that the information contained in this document is no longer reliable, this document will be updated in §I(4) **Security Failures** below, indicating the impacted resource or staff member, date, time, and to the extent reasonably available and assessable, the impact of this failure. A post will also be made in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") announcement channel in the Compendium Support Discord server as soon as possible.
+If there is ever an exceptional or emergency update, e.g. some compromise of security such that the information contained in this document is no longer reliable, this document will be updated in §I(4) **Security Failures** below, indicating the impacted resource or staff member, date, time, and to the extent reasonably available and assessable, the impact of this failure. A post will also be made in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") announcement channel in the Compendium Support Discord server as soon as possible.
 
 ### 4. Security Failures
+
+This section does not record non-emergent events.
 
 - There have been **0** security incidents to date.
 
 ## II. Discord Bots
+
+**Related Advisory Document**: [Bot Imitators](/Policy-Related-Documents/Bot-Imitators.md "Bot Imitators – Compendium Standard Public Disclosures")
 
 ### 1. Main Bot
 
@@ -72,14 +79,14 @@ WIP Note: All emails below are dependant upon our website domain, which is not f
 
 Email inboxes that are monitored and can send replies. These will not proactively contact you under any circumstance.
 
-| Email                                               | Purpose                                                                                                        | Inbox Monitored | No-Reply |
-| :-------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------- | -------- |
-| `[WIP - legal entity]`@`[WIP - Website domain]` | Primary point of contact for official business.                                                                | Yes             | No       |
+| Email                                               | Purpose                                                                                                       | Inbox Monitored | No-Reply |
+| :-------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------- | -------- |
+| `[WIP - legal entity]`@`[WIP - Website domain]` | Primary point of contact for official business.                                                               | Yes             | No       |
 | support@`[WIP - Website domain]`                  | Primary point of contact for general support, especially when the user no longer has access to their account. | Yes             | No       |
-| policy@`[WIP - Website domain]`                   | Primary point of contact for policy questions.                                                                 | Yes             | No       |
-| privacy@`[WIP - Website domain]`                  | Special sensitive privacy incident reporting.                                                                  | Yes             | No       |
-| compliance@`[WIP - Website domain]`               | Primary point of contact for official legal, data requests.                                                    | Yes             | No       |
-| impropriety@`[WIP - Website domain]`              | Report fraud, abuse, or impersonation concerning Compendium (see §I(3)(A) above).                              | Yes             | No       |
+| policy@`[WIP - Website domain]`                   | Primary point of contact for policy questions.                                                                | Yes             | No       |
+| privacy@`[WIP - Website domain]`                  | Special sensitive privacy incident reporting.                                                                 | Yes             | No       |
+| compliance@`[WIP - Website domain]`               | Primary point of contact for official legal, data requests.                                                   | Yes             | No       |
+| impropriety@`[WIP - Website domain]`              | Report fraud, abuse, or impersonation concerning Compendium (see §I(3)(A) above).                            | Yes             | No       |
 
 ### 2. Notification (No-Reply) Outboxes
 
@@ -96,8 +103,8 @@ As the name suggests, the below emails' inboxes are not monitored. These may sen
 
 While these inboxes are monitored and can reply to you, these are meant to be used as an authoritative email, representing who is speaking to you via which §V(1) **General Communications** email, for example, "**Waves**, on behalf of **Support**."
 
-| Email                             | Purpose                                                             | Inbox Monitored | No-Reply |
-| :-------------------------------- | ------------------------------------------------------------------- | --------------- | -------- |
+| Email                             | Purpose                                                           | Inbox Monitored | No-Reply |
+| :-------------------------------- | ----------------------------------------------------------------- | --------------- | -------- |
 | tuevon@`[WIP - Website domain]` | Tuevon's email - Secondary point of contact for official matters. | Yes             | No       |
 | waves@`[WIP - Website domain]`  | Waves's email - Secondary point of contact for official matters.  | Yes             | No       |
 
