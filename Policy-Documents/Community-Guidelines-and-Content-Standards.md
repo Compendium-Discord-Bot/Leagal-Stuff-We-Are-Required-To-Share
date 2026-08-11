@@ -52,6 +52,7 @@ Compendium establishes three content rating levels for user-submitted content. T
 * **Explicit** content, aside from also calling under the category of NSFW, and which is explained in more detail in **§IV(4)(C)** below, is prohibited on Compendium outright, regardless of user-provided marking.
 
 For any guild that handles Mature-rated content, responsibility is placed on the owner of each guild (e.g. "server") and the managing staff of the guild who have the authority to manage content ratings to:
+
 * Determine whether managing staff, including the owner themself, are permitted to handle Mature-rated content and make staffing decisions accordingly;
 * Utilize Discord's age-rating systems to determine spaces appropriate and inappropriate for the audiences in your guild;
 * Utilize Compendium's content rating systems explained below in IV(2) to maintain the division of these ratings in their guild.
